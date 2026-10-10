@@ -265,3 +265,4 @@ docker tag pathnex-app yourdockerhub/pathnex-app
 docker stop pathnex-container
 docker rm pathnex-container
 docker rmi pathnex-app
+## Contributed by rsjdevops 
